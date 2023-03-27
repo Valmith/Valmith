@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valmith
 - 👀 I’m interested in learning how to get really into coding! haha
-- 🌱 I’m currently learning C++ and html CSS gubbins
+- 🌱 I’m currently learning C++ and html CSS gubbins, and flutter as well!
 - 💞️ I’m looking to collaborate on anything a newbie like me can learn stuff on!
 
 
